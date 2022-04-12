@@ -9,13 +9,18 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy Oscar
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+- Tengo 20 años y vivo en Guadalajara
+- Soy egresado en Tecnólogo en Desarrollo de Software del CETI
+- Estudio Ingeniería en Computación en la UdeG
+- Tengo un poco de experiencia en desarrollo de videojuegos
+- Me interesa aprender desarrollo Web y Android
+- Me gusta aprender y moverle al hardware de computadoras, así como de aprender a usar nuevos OS, como Linux
+--------------------------------------------
+- Me gusta jugar videojuegos y hacer actividad física
+- Además del inglés, me interesa aprender idiomas como el japonés y lengua de señas
+- Me gusta leer de historia, ficción distópica y terror
+- Me gusta escuchar instrumental y acústico japonés y coreano
+--------------------------------------------
+- No tengo mascotas, pero me gustan los gatos :3
