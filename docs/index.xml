@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Oscar Cabrales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://oscarcabralesa.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://oscarcabralesa.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://oscarcabralesa.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://oscarcabralesa.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>OnBoarding
+ Git y Github Python  Estructuras de control Funciones Excepciones    FrontEnd
+ Planeación  Estudio de mercado: público objetivo, cliente y buyer-persona Toma de requerimimentos Uso de herramientas como Figma para el maquetado de un sistema   Desarrollo FrontEnd de sitios web  HTML como esqueleto CSS como definiciones de estilo visual JavaScript como controlador o sistema nervioso Desarrollo de páginas responsive (ejemplo pokedex) Vue JS Despliegue y soluciones en la nube con Azure    </description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://oscarcabralesa.github.io/my_launchx_blog/posts/intro/</link>
